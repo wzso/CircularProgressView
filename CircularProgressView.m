@@ -56,7 +56,7 @@
     CGRect rect = self.bounds;
     CGPoint center = CGPointMake(CGRectGetWidth(rect) / 2.f, CGRectGetHeight(rect) / 2.f);
     CGFloat radius = MIN(CGRectGetHeight(rect), CGRectGetWidth(rect)) / 2 - LineWidth / 2;
-    CGFloat endAngle = 3 * M_PI;
+    CGFloat endAngle = 2 * M_PI;
     CGFloat startAngle = 0;
     if (!dash) {
         startAngle = -M_PI_2;
