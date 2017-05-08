@@ -3,7 +3,7 @@
 //  SellMyiPhone
 //
 //  Created by Vincent on 1/12/17.
-//  Copyright © 2017 Huishoubao Tech. All rights reserved.
+//  Copyright © 2017 zssr. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

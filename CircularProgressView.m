@@ -3,16 +3,15 @@
 //  SellMyiPhone
 //
 //  Created by Vincent on 1/12/17.
-//  Copyright © 2017 Huishoubao Tech. All rights reserved.
+//  Copyright © 2017 zssr. All rights reserved.
 //
 
 #import "CircularProgressView.h"
-#import "Macros.h"
-#import "DesignStandards.h"
+
 
 #define LineWidth 5.f
 #define Space 7.f
-
+#define Yellow [UIColor colorWithRed:0.9725 green:0.7412 blue:0.1725 alpha:1]
 
 @implementation CircularProgressView
 - (instancetype)initWithCoder:(NSCoder *)aDecoder {
